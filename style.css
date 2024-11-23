@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#numberForm {
+    text-align: center;
+}
+
+#facts {
+    margin-top: 50px;
+}
